@@ -1,4 +1,4 @@
-![👋 Hi, my name is Rakesh prabhu](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+![👋 Hi, my name is Rakesh prabhu](https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif)
 
 <div id="toc">
   <ul align="center" style="list-style: none">
@@ -17,7 +17,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Developing a new crypto social media platform using React and Node.js**
+- 💼 I'm currently working on: **💻 Developing a new e-commerce platform using React and Node.js**
 - 🌱 I'm currently learning: **📚 Exploring Blockchain**
 - 💬 Ask me about: **💡 JavaScript, React, React Native, Node.js,  MongoDB, and RESTful APIs**
 - ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
